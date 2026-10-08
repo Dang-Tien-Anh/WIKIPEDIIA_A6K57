@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "example-article",
+    "title": "Example article",
+    "category": "Examples",
+    "summary": "A sample page showing headings, lists, a table and links."
+  },
+  {
+    "slug": "how-to-write-articles",
+    "title": "How to write articles",
+    "category": "Help",
+    "summary": "How to add, edit and link pages in this wiki."
+  },
+  {
+    "slug": "random-example",
+    "title": "Random example",
+    "category": "Examples",
+    "summary": "A short second sample page."
+  },
+  {
+    "slug": "main-page",
+    "title": "Welcome to my wiki",
+    "category": "",
+    "summary": "The front page of this wiki."
+  }
+]
