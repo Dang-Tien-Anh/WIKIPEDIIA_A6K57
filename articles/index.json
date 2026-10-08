@@ -6,6 +6,12 @@
     "summary": "A sample page showing headings, lists, a table and links."
   },
   {
+    "slug": "hoa-hoc",
+    "title": "Hóa học",
+    "category": "Vocabulary",
+    "summary": "Vietnamese word for \"chemistry\" (noun) and \"chemical\" (adjective)."
+  },
+  {
     "slug": "how-to-write-articles",
     "title": "How to write articles",
     "category": "Help",
